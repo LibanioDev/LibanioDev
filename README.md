@@ -4,7 +4,7 @@ Sou uma estudante de Ciências da Computação dedicada e entusiasmada que está
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelle-lib%C3%A2nio-70b710230/)
 
-![LibanioDev GitHub stats](https://github-readme-stats.vercel.app/api?username=LibanioDev&show_icons=true&theme=radical)
+![LibanioDev GitHub stats](https://github-readme-stats.vercel.app/api?username=LibanioDev&show_icons=true&theme=tokyonight)
 
 ## Habilidades
 

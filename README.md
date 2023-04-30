@@ -1,5 +1,6 @@
-
 ### Olá! Eu sou Isabelle Libânio 👋
+
+Sou uma estudante de Ciências da Computação dedicada e entusiasmada que está interessada pela área de programação. Estou animada em aprender e aplicar minhas habilidades em projetos pessoais e acadêmicos, com o objetivo de contribuir para uma equipe de programadores. Tenho habilidades em HTML5, CSS e JavaScript. Estou sempre buscando novos desafios e oportunidades para me desenvolver profissionalmente.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelle-lib%C3%A2nio-70b710230/)
 
@@ -14,5 +15,3 @@
    <div style="display: inline_block"><br/>
    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    </div><br/>
-
-   Sou uma estudante de Ciências da Computação dedicada e entusiasmada que está interessada pela área de programação. Estou animada em aprender e aplicar minhas habilidades em projetos pessoais e acadêmicos, com o objetivo de contribuir para uma equipe de programadores. Tenho habilidades em HTML5, CSS e JavaScript. Estou sempre buscando novos desafios e oportunidades para me desenvolver profissionalmente.

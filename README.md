@@ -4,7 +4,7 @@ Sou uma estudante de Ciências da Computação dedicada e entusiasmada que está
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelle-lib%C3%A2nio-70b710230/)
 
-<div style="display: flex; width: 100%">
+<div style="display: flex; width: 80%">
    <div style="width:60%; display: flex;">
       <img src="https://github-readme-stats.vercel.app/api?username=LibanioDev&show_icons=true&theme=tokyonight"/>
    </div>

@@ -4,8 +4,7 @@ Sou uma estudante de Ciências da Computação dedicada e entusiasmada que está
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelle-lib%C3%A2nio-70b710230/)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=libaniodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=libaniodev&layout=compact&langs_count=7&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=libaniodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=libaniodev&layout=compact&langs_count=7&theme=tokyonight"/>
 
    </div>
         <img align="right" alt="Isa-pic" height="110" style="border-radius:50px;" src="https://user-images.githubusercontent.com/132175404/235378825-94475ea2-997f-4c1e-8c2c-171036152c1c.gif">

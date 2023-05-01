@@ -8,7 +8,7 @@ Sou uma estudante de Ciências da Computação dedicada e entusiasmada que está
    <div style="width:60%; display: flex;">
       <img src="https://github-readme-stats.vercel.app/api?username=LibanioDev&show_icons=true&theme=tokyonight"/>
    </div>
-        <img align="right" alt="Isa-pic" height="130" style="border-radius:50px;" src="https://user-images.githubusercontent.com/132175404/235378825-94475ea2-997f-4c1e-8c2c-171036152c1c.gif">
+        <img align="right" alt="Isa-pic" height="120" style="border-radius:50px;" src="https://user-images.githubusercontent.com/132175404/235378825-94475ea2-997f-4c1e-8c2c-171036152c1c.gif">
 
    </div>
 </div> 

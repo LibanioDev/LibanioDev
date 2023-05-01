@@ -1,4 +1,4 @@
-### Olá! Eu sou Isabelle a Libânio 👋
+### Olá! Eu sou a Isabelle Libânio 👋
 
 Sou uma estudante de Ciências da Computação dedicada e entusiasmada que está interessada pela área de programação. Estou animada em aprender e aplicar minhas habilidades em projetos pessoais e acadêmicos, com o objetivo de contribuir para uma equipe de programadores. Estou sempre buscando novos desafios e oportunidades para me desenvolver profissionalmente.
 

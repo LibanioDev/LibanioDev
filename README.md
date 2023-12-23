@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Isabelle Libânio 👋
 
-Sou uma estudante de Ciências da Computação dedicada e entusiasmada que está interessada pela área de programação. Estou animada em aprender e aplicar minhas habilidades em projetos pessoais e acadêmicos, com o objetivo de contribuir para uma equipe de programadores. Estou sempre buscando novos desafios e oportunidades para me desenvolver profissionalmente.
+Sou uma estudante entusiasmada de Análise e Desenvolvimento de Sistemas em busca de aprimorar minhas habilidades em Front-end. Estou dedicando meu tempo ao aprendizado de HTML, CSS e JavaScript para criar interfaces web intuitivas e atraentes. 
+Estou ansiosa para explorar mais a fundo os segredos por trás do design e interatividade, buscando contribuir com soluções inovadoras no mundo do desenvolvimento de aplicações web.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelle-lib%C3%A2nio-70b710230/)
 
